@@ -1,0 +1,34 @@
+[
+   {
+      "titulo": "armar carpeta app de tareas",
+      "estado": "terminada"
+   },
+   {
+      "titulo": "crear archivo json",
+      "estado": "terminada"
+   },
+   {
+      "titulo": "entregar app.js de tareas",
+      "estado": "en proceso"
+   },
+   {
+      "titulo": "terminar app de tareas",
+      "estado": "terminada"
+   },
+   {
+      "titulo": "crear app tareas 2",
+      "estado": "en poceso"
+   },
+   {
+      "titulo": "comer sandia",
+      "estado": "pendiente"
+   },
+   {
+      "titulo": "aprender reac",
+      "estado": "pendiente"
+   },
+   {
+      "titulo": "entrega",
+      "estado": "terminada"
+   }
+]
